@@ -10,7 +10,7 @@ Welcome to my portfolio! I document summaries to all my data analysis projects h
 
 # Data Engineering
 
-| Project Name  |     Tools     | Project Overview |   Date Completed |
+| Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
 | |   |                  |                  |
 |  |  |                  |                  |
