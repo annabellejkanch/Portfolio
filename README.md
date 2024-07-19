@@ -12,14 +12,14 @@ Welcome to my portfolio! I document summaries to all my data analysis projects h
 
 | Project Name  |     Tools     | Project Overview |   Date Completed |
 | ------------- | ------------- |   -------------  |  -------------   |
-|   |  |                  |                  |
+| |   |                  |                  |
 |  |  |                  |                  |
 
 # Python
 
 | Project Name  |     Libraries     | Project Overview |   
 | ------------- | ------------- |   -------------  |  
-|   |  |${{\color{Bittersweet}\{\textsf{  Topic: Time Series Analysis\ \}}}}\$  something something something somethign something something somethign                |                 
+| 💡 [MISO Hourly Load Data Analysis for 2018 - 2023]() | Pandas, Numpy, Matplotlib, Sklearn,   |${{\color{Bittersweet}\{\textsf{Topic: Time Series Analysis\ \}}}}\$ <br>  In analysis, I analyzed the hourly load data for the Midcontinent Independent System Operator using the ARIMA method. The objective of this analysis was to predict the hourly load data for the next 24 hours.                |                 
 |  |  |                  |                  
 
 # R
