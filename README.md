@@ -16,12 +16,12 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 | ------------- | ------------- |   -------------  |  -------------   |
 |[MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Nov 2022|
 |[Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
-|[Comparison of Style Transfer Methods]() | Python | | Sept 2024 - Dec 2024 |
+|[Comparison of Style Transfer Methods]() | Python |${{\color{Green}\{\textsf{  Topic: Style Transfer \ \}}}}\$ &rarr; This project compares the classical Neural Style Transfer method proposed by Gatys et al. with the AdaIN method proposed by Huang et al., using VGG-19 for feature extraction. I developed the NST model and referred to Huang's Lua implementation of AdaIN to develop it in Python. The project evaluates their differences in style fusion, efficiency, and output quality using metrics like content loss, style loss, and FID scores.| Sept 2024 - Dec 2024 |
 
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| Feb 2024 - Pending                 |
+|Biomedical Signal Processing |   |${{\color{Aquamarine}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| Feb 2024 - Pending                 |
            
 # Generative AI
 | Project Name  |     Tools     | Project Overview |   Timeline |
@@ -32,7 +32,7 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 
 | Project Name  |     Tools     | Project Overview    |    Dashboard Link           |
 | ------------- | ------------- |   -------------     | ------------- | 
-|⚕️ [Medical Insurance Cost Dashboard](https://github.com/annabellekanch/MicrosoftPowerBI/blob/main/Medical%20Insurance%20Cost%20Dashboard/ReadMe.md) | Excel, PowerBI  | ${{\color{Bittersweet}\{\textsf{Topic: Healthcare, Multiple Linear Regression\ \}}}}\$ <br>For this dashboard I cleaned my data in Excel and used functions like *VLOOKUP() and INDEXMATCH()* to ensure data quality. I created 5 dashboard visualizations. A bar graph visualizing the total cost of insurance by region, two line charts visualizing the avg cost of insurance by age and avg. cost of insurance by BMI, a simple linear regression model using *LINEST()* to calculate the linear regression line between age and cost of medical insurance, and a multiple linear regression model to calculate the cost of medical insurance based on BMI, number of children the client has, the client's gender, and if the client is a smoker.     |  [Dashboard]()                              
+|⚕️ [Medical Insurance Cost Dashboard](https://github.com/annabellekanch/MicrosoftPowerBI/blob/main/Medical%20Insurance%20Cost%20Dashboard/ReadMe.md) | Excel, PowerBI  | ${{\color{Purple}\{\textsf{Topic: Healthcare, Multiple Linear Regression\ \}}}}\$ <br>For this dashboard I cleaned my data in Excel and used functions like *VLOOKUP() and INDEXMATCH()* to ensure data quality. I created 5 dashboard visualizations. A bar graph visualizing the total cost of insurance by region, two line charts visualizing the avg cost of insurance by age and avg. cost of insurance by BMI, a simple linear regression model using *LINEST()* to calculate the linear regression line between age and cost of medical insurance, and a multiple linear regression model to calculate the cost of medical insurance based on BMI, number of children the client has, the client's gender, and if the client is a smoker.     |  [Dashboard]()                              
 |  |  |  |
 
 
