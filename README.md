@@ -1,9 +1,8 @@
 # 📍 Portfolio
-Welcome to my portfolio! I document summaries to all my data analysis projects here!
+Welcome to my portfolio! Find documented summaries to all my projects here!
 
 ## 📚 Table of Contents
-* [Data Engineering](#data-engineering)
-* [Python](#python)
+* [Machine Learning](#machine-learning)
 * [R](#r)
 * [SQL](#sql)
 * [Data Visualizations](#data-visualizations)
@@ -11,26 +10,19 @@ Welcome to my portfolio! I document summaries to all my data analysis projects h
 > [!NOTE]  
 > Clicking on Project Name links will take you to the Github repository for the specified project
 
-# Data Engineering
+# Machine Learning
 
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
 | |   |                  |                  |
 |  |  |                  |                  |
-
-# Python
-
-| Project Name  |     Libraries     | Project Overview |   
-| ------------- | ------------- |   -------------  |  
-| 💡 [MISO Hourly Load Data Analysis for 2018 - 2023]() | Pandas, Numpy, Matplotlib, Sklearn,   |${{\color{Bittersweet}\{\textsf{Topic: Time Series Analysis\ \}}}}\$ <br>  In analysis, I analyzed the hourly load data for the Midcontinent Independent System Operator using the ARIMA method. The objective of this analysis was to predict the hourly load data for the next 24 hours.                |                 
-|  |  |                  |                  
+                
 
 # R
-
-| Project Name  |     Libraries     | Project Overview |   
-| ------------- | ------------- |   -------------  |  
-|   |  |${{\color{Bittersweet}\{\textsf{  Topic: Time Series Analysis\ \}}}}\$  something something something somethign something something somethign   |                  
-|  |  |                  |                  
+| Project Name  |     Tools     | Project Overview |   Timeline |
+| ------------- | ------------- |   -------------  |  -------------   |
+| |   |${{\color{Bittersweet}\{\textsf{  Topic: Time Series Analysis\ \}}}}\$  something something something somethign something something somethign                     |                  |
+|  |  |                  |                  |             
 
 # SQL
 
