@@ -14,22 +14,22 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-| |   |                  |                  |
-|  |  |                  |                  |
+|* [MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Oct 2022|
+|* [Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
+
                 
 
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-| |   |${{\color{Bittersweet}\{\textsf{  Topic: Time Series Analysis\ \}}}}\$  something something something somethign something something somethign                     |                  |
+|Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Statistical Analysis\ \}}}}\$ statistical analysis of | Feb 2024 - Pending                 |
 |  |  |                  |                  |             
 
 # SQL
-
-| Project Name  |   Project Overview 
-| ------------- | ------------- 
-|   | ${{\color{Bittersweet}\{\textsf{  Topic: Time Series Analysis\ \}}}}\$  something something something somethign something something somethign 
-|  |  
+| Project Name  |     Tools     | Project Overview |   Timeline |
+| ------------- | ------------- |   -------------  |  -------------   |
+| | | | |
+|  |  |  |  |
 
 
 # Data Visualizations
