@@ -16,17 +16,17 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 | ------------- | ------------- |   -------------  |  -------------   |
 |[MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Nov 2022|
 |[Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
-|[]()
+|[Comparison of Style Transfer Methods]() | Python | | Sept 2024 - Dec 2024 |
 
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Statistical Analysis\ \}}}}\$ statistical analysis of | Feb 2024 - Pending                 |
+|Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| Feb 2024 - Pending                 |
            
 # Generative AI
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Statistical Analysis\ \}}}}\$ statistical analysis of | Feb 2024 - Pending                 |
+|[AI Chatbot]() |   |${{\color{Bittersweet}\{\textsf{  Topic: AI Chatbot with \ \}}}}\$ &rarr; summary | Feb 2024 - Pending                 |
 
 # Data Visualization  
 
