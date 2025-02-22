@@ -4,7 +4,6 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 ## 📚 Table of Contents
 * [Machine Learning](#machine-learning)
 * [R](#r)
-* [SQL](#sql)
 * [Data Visualizations](#data-visualizations)
 
 > [!NOTE]  
@@ -14,10 +13,8 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|* [MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Oct 2022|
-|* [Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
-
-                
+|[MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Oct 2022|
+|[Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
 
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
@@ -25,17 +22,7 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 |Biomedical Signal Processing |   |${{\color{Bittersweet}\{\textsf{  Topic: Statistical Analysis\ \}}}}\$ statistical analysis of | Feb 2024 - Pending                 |
 |  |  |                  |                  |             
 
-# SQL
-| Project Name  |     Tools     | Project Overview |   Timeline |
-| ------------- | ------------- |   -------------  |  -------------   |
-| | | | |
-|  |  |  |  |
-
-
-# Data Visualizations
-
-> [!NOTE]  
-> All dashboards links are (re)made in Tableau, this is purely because Tableau allows for free, universal access; unlike Power BI. In order to view the Power BI Dashboard, click on the Project Name link. It will take you to the Github repository where the PBIX file is kept, you can then download and open the file in Power BI Desktop   
+# Data Visualization  
 
 | Project Name  |     Tools     | Project Overview    |    Dashboard Link           |
 | ------------- | ------------- |   -------------     | ------------- | 
