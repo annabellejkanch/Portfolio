@@ -21,7 +21,7 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|Biomedical Signal Processing |   |${{\color{Aquamarine}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| In Progress |
+|Statistical Analysis of Kinetic & EMG variables|   |${{\color{Aquamarine}\{\textsf{  Topic: Biomedical Signal Processing \ \}}}}\$ &rarr; summary| In Progress |
            
 # Generative AI
 | Project Name  |     Tools     | Project Overview |   Timeline |
