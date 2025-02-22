@@ -15,7 +15,7 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
 |[MISO Analysis]() | Python, SQL   |                  | Aug 2022 - Nov 2022|
-|[Breast Cancer Tumor Prediction](https://github.com/annabellekanch/Diagnosis/tree/main/templates) |Python, SQL|  |Oct 2024 - Dec 2024|
+|[Breast Cancer Tumor Prediction](https://github.com/annabellejkanch/BreastCancerTumorPrediction) |Python, SQL|  |Oct 2024 - Dec 2024|
 |[Comparison of Style Transfer Methods]() | Python |${{\color{Green}\{\textsf{  Topic: Style Transfer \ \}}}}\$ &rarr; This project compares the classical Neural Style Transfer method proposed by Gatys et al. with the AdaIN method proposed by Huang et al., using VGG-19 for feature extraction. I developed the NST model and referred to Huang's Lua implementation of AdaIN to develop it in Python. The project evaluates their differences in style fusion, efficiency, and output quality using metrics like content loss, style loss, and FID scores.| Sept 2024 - Dec 2024 |
 
 # R
