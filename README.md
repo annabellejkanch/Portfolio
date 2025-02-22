@@ -21,12 +21,12 @@ Welcome to my portfolio! Find documented summaries to all my projects here!
 # R
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|Biomedical Signal Processing |   |${{\color{Aquamarine}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| Feb 2024 - Pending                 |
+|Biomedical Signal Processing |   |${{\color{Aquamarine}\{\textsf{  Topic: Biomedical Analysis \ \}}}}\$ &rarr; summary| In Progress |
            
 # Generative AI
 | Project Name  |     Tools     | Project Overview |   Timeline |
 | ------------- | ------------- |   -------------  |  -------------   |
-|[AI Chatbot]() |   |${{\color{Bittersweet}\{\textsf{  Topic: AI Chatbot with \ \}}}}\$ &rarr; summary | Feb 2024 - Pending                 |
+|[AI Chatbot]() |   |${{\color{Bittersweet}\{\textsf{  Topic: AI Chatbot with \ \}}}}\$ &rarr; summary | In Progress  |
 
 # Data Visualization  
 
