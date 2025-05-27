@@ -1,7 +1,7 @@
 # 📍 Portfolio
 Welcome to my portfolio! Find documented summaries to all my projects here
 
-## My Resume
+## 📄 My Resume
 [![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-F5C242)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleKanchirathingalResume.pdf)
 
 ## 📚 Table of Contents
