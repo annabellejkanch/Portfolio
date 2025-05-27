@@ -1,8 +1,8 @@
 # 📍 Portfolio
-Welcome to my portfolio! Find documented summaries to all my projects here!
+Welcome to my portfolio! Find documented summaries to all my projects here
 
-Download my Resume!
-[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleKanchirathingalResume.pdf)
+## My Resume
+[![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-F5C242)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleKanchirathingalResume.pdf)
 
 ## 📚 Table of Contents
 * [Machine Learning](#machine-learning)
