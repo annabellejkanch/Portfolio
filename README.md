@@ -2,7 +2,7 @@
 Welcome to my portfolio! Find documented summaries to all my projects here
 
 ## 📄 My Resume
-[![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-F5C242)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleKanchirathingalResume.pdf)
+[![Download My Resume](https://img.shields.io/badge/Download%20My%20Resume-F5C242)](https://raw.githubusercontent.com/annabellejkanch/Portfolio/main/assets/AnnabelleJoyK.pdf)
 
 ## 📚 Table of Contents
 * [Machine Learning](#machine-learning)
